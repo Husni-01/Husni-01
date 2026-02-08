@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">ML / Backend</h1>
+
+<p align="center">
+✨ Focused on Data Systems, Backend Robustness, and Edge Computing ✨
+</p>
 
 <!--
 **Husni-01/Husni-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
