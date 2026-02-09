@@ -1,7 +1,7 @@
 <h1 align="center">Software Engineer (ML & Full-Stack) </h1>
 
 <p align="center">
-✨ Focused on Data Systems, Backend Robustness, and Edge Computing ✨
+✨ Focused on Data Systems, Frontend-Backend Robustness, and Edge Computing ✨
 </p>
 
 <p align="center">
