@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Husni+👋,+Computer+Science+Student;ML%2FFull+Stack;" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">Software Engineer (ML & Full-Stack) </h1>
 
 <p align="center">
