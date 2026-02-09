@@ -1,4 +1,4 @@
-<h1 align="center">ML / Backend</h1>
+<h1 align="center">Software Engineer (ML & Full-Stack) </h1>
 
 <p align="center">
 ✨ Focused on Data Systems, Backend Robustness, and Edge Computing ✨
