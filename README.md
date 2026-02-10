@@ -41,6 +41,16 @@
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge)
 ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge)
 
+### Tools, Platforms & Design
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
+
+
 ### Tools & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
