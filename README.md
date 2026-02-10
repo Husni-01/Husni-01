@@ -58,10 +58,6 @@
 
 ## 📊 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Husni-01&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Husni-01&layout=compact)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Husni-01)
 
 
