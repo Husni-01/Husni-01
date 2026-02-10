@@ -20,7 +20,7 @@
 - Exploring **Java, Spring Boot, Python, Flask**
 - Open to collaborative projects
 
-- ## 🛠 My Technical Arsenal
+## 🛠 My Technical Arsenal
 
 ### Languages & Frameworks
 
