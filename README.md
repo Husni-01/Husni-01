@@ -18,6 +18,7 @@
 - CS student focused on backend systems and ML pipelines  
 - Interested in **Frontend Engineering & ML**
 - Exploring **Java, Spring Boot, Python, Flask**
+- Experienced in leveraging Generative AI tools (ChatGPT, Claude, Gemini, GitHub Copilot) for development, debugging, and research workflows
 - Open to collaborative projects
 
 ## 🛠 My Technical Arsenal
