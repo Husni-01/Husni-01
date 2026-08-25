@@ -57,7 +57,7 @@
 
 ### Design 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="30"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" height="30"/>
+<img src="canva.jpg" alt="Canva Badge" height="30" /><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" height="30"/>
 
 
 ## 📊 GitHub Performance
