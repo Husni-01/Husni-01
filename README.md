@@ -62,6 +62,4 @@
 
 ## 📊 GitHub Performance
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Husni-01)
-
-
+![Husni-01's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Husni-01&theme=radical)
