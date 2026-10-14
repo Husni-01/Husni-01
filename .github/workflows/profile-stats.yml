@@ -1,0 +1,17 @@
+name: Generate Profile Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Updates your statistics automatically every single night
+  workflow_dispatch: # Allows you to run it manually at any time
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics Tool Execution
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Husni-01
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: GMT
