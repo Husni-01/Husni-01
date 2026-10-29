@@ -67,6 +67,8 @@
 <!-- Remove the line below if you haven't set up the GitHub metrics action yet -->
 ![Husni-01's Profile Stats](./github-metrics.svg)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Husni-01&show_icons=true)](https://github.com/Husni-01)
+<!-- 1. GitHub Stats Card -->
+[![GitHub Stats](https://github-readme-stats-xlts.vercel.app/api?username=Husni-01&show_icons=true)](https://github.com/Husni-01)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Husni-01&layout=compact)](https://github.com/Husni-01)
+<!-- 2. Most Used Languages Card -->
+[![Most Used Languages](https://github-readme-stats-xlts.vercel.app/api/top-langs/?username=Husni-01&layout=compact)](https://github.com/Husni-01)
