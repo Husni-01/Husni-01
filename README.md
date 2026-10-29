@@ -62,8 +62,11 @@
 
 ## 📊 GitHub Performance
 
-![Husni-01's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Husni-01&theme=radical)
+[![Husni-01's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Husni-01&theme=radical)](https://github.com/Husni-01)
+
+<!-- Remove the line below if you haven't set up the GitHub metrics action yet -->
 ![Husni-01's Profile Stats](./github-metrics.svg)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Husni-01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Husni-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Husni-01&show_icons=true)](https://github.com/Husni-01)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Husni-01&layout=compact)](https://github.com/Husni-01)
